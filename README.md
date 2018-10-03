@@ -48,12 +48,7 @@ The bot receives tweets via mentions and in turn performs sentiment analysis on 
 
 For example, when a user tweets, **"@PlotBot Analyze: @CNN,"** it will trigger a sentiment analysis on the CNN twitter feed.
 
-A plot from the sentiment analysis is then tweeted to the PlotBot5 twitter feed. See below for examples of scatter plots you will generate:
-
-![@juanitasoranno.png](Images/@juanitasoranno.png)
-![@nancypwong.png](Images/@nancypwong.png)
-![nytimes.png](Images/nytimes.png)
-
+A plot from the sentiment analysis is then tweeted to the PlotBot5 twitter feed. 
 Hints, requirements, and considerations:
 
 * Your bot should scan your account every **five minutes** for mentions.
